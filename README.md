@@ -1,2 +1,3 @@
 # Fitness-Progress-dashboard-
-Intern ID : CITS4423  Full name : Uadhav Goyal  
+Intern ID : CITS4423  
+Full Name : Uadhav Goyal
